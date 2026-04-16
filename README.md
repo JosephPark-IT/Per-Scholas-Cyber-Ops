@@ -1,9 +1,9 @@
 # Per-Scholas-Cyber-Ops
 
 **Status:** Active | Per Scholas Cybersecurity Analyst Program (April – July 2026)
----
+
 This repository is a **live documentation** of my transition into Cybersecurity through the 15-week program, Per Scholas Cybersecurity. It tracks my technical progress from networking foundations to advanced incident response and SOC operations.
----
+
 
 ###  Current Phase
 **Phase 1: Network Operations & Security Foundations**
