@@ -10,7 +10,8 @@ This repository serves as a technical portfolio for my transition into Cybersecu
 **Network Operations & Security Foundations**
 * Focused on core protocols (TCP/IP, DNS, DHCP) and OSI model fundamentals.
 * Network traffic analysis and topology mapping.
-**Note:** `Hands-on labs and SOC simulation documentation will begin appearing here in May 2026.`
+> [!NOTE]
+> Hands-on labs and SOC simulation documentation will begin appearing here in **May 2026**.
 
 ### Training & Certification Path
 This program is structured to provide hands-on experience in:
