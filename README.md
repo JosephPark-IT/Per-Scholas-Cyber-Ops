@@ -8,25 +8,25 @@ Hands-on cybersecurity portfolio built during the Per Scholas Cybersecurity Anal
 
 ## Repository Structure
 
-### 📡 /Network-Analysis
+### /Network-Analysis
 Wireshark PCAP captures, network traffic analysis, and protocol breakdowns with security context. Each entry answers: what does this traffic tell a defender?
 
-### 🚨 /Incident-Response
+### /Incident-Response
 Full incident response reports, alert triage simulations, and threat scenario breakdowns. Structured using real IR methodology: detection, investigation, scope, containment, eradication, lessons learned.
 
-### 📊 /SIEM-and-Log-Analysis
+### /SIEM-and-Log-Analysis
 Splunk SPL queries, detection use cases, dashboard documentation, and log correlation examples. Each query includes an explanation of what threat it detects and what a false positive looks like.
 
-### 🐧 /Linux-and-Scripting
+### /Linux-and-Scripting
 Linux CLI lab work, Bash scripts, log investigation exercises, and command references — all framed with security context.
 
-### 🔍 /Vulnerability-Assessment
+### /Vulnerability-Assessment
 Nmap scan outputs with analyst commentary, CVSS scoring examples, and remediation recommendations. Documents methodology, not just raw results.
 
-### 🏠 /Home-Lab
+### /Home-Lab
 Virtualized lab environment documentation including Windows Server setup, Active Directory configuration, attack simulation scenarios, and network diagrams.
 
-### 🎓 /Certifications
+### /Certifications
 CySA+ study documentation organized by exam domain, LetsDefend scenario completions, and certification progress tracking.
 
 ---
