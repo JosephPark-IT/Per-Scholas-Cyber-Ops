@@ -2,24 +2,25 @@
 
 **Status:** Active | Per Scholas Cybersecurity Analyst Program (April – July 2026)
 
-This repository serves as a technical portfolio for my transition into Cybersecurity. It documents lab work, network analysis, and incident response simulations performed during the 15-week intensive program.
-
+This repository is a **live documentation** of my transition into Cybersecurity through the 15-week program, Per Scholas Cybersecurity. It tracks my technical progress from networking foundations to advanced incident response and SOC operations.
 ---
 
-### Current Progress: Phase 1
-**Network Operations & Security Foundations**
-* Focused on core protocols (TCP/IP, DNS, DHCP) and OSI model fundamentals.
-* Network traffic analysis and topology mapping.
+###  Current Phase
+**Phase 1: Network Operations & Security Foundations**
+* **Mastering Core Protocols:** Deep dive into TCP/IP, DNS, DHCP, and the OSI Model.
+* **Analysis:** Investigating network traffic patterns and topology.
 > [!NOTE]
 > Hands-on labs and SOC simulation documentation will begin appearing here in **May 2026**.
 
-### Training & Certification Path
-This program is structured to provide hands-on experience in:
-* Threat investigations and incident response reporting.
-* SIEM management and Splunk detection content.
+###  Program Overview
+This is a hands-on cybersecurity portfolio built during the **Per Scholas Cybersecurity Analyst Program** (April – July 2026). This repository documents:
+* Real-world lab work and network hardening.
+* Threat investigations and incident response reports.
+* Splunk detection content and SIEM dashboarding.
 
-**Target Certifications (Post-July 2026):**
-* CompTIA CySA+ 
+### Certifications Received Upon Completion
+**Upon completion of this 15-week program:**
+* CompTIA CySA+ (Cybersecurity Analyst)
 * Splunk Core Certified User
 
 ---
