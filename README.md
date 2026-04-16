@@ -6,14 +6,14 @@ This repository documents my transition into Cybersecurity through the Per Schol
 
 [**Jump to Program Timeline ↓**](#program-timeline)
 
-###  Current Phase
+### Current Phase
 **Phase 1: Network Operations & Security Foundations**
 * **Mastering Core Protocols:** Deep dive into TCP/IP, DNS, DHCP, and the OSI Model.
 * **Analysis:** Investigating network traffic patterns and topology.
 > [!NOTE]
 > Hands-on labs and SOC simulation documentation will begin appearing here in **May 2026**.
 
-###  Program Overview
+### Program Overview
 This is a hands-on cybersecurity portfolio built during the **Per Scholas Cybersecurity Analyst Program** (April – July 2026). This repository documents:
 * Real-world lab work and network hardening.
 * Threat investigations and incident response reports.
@@ -31,7 +31,7 @@ This is a hands-on cybersecurity portfolio built during the **Per Scholas Cybers
 ## Repository Structure
 
 ### /Network-Analysis
-Wireshark PCAP captures, network traffic analysis, and protocol breakdowns with security context. Each entry answers: what does this traffic tell a defender?
+Wireshark PCAP captures, network traffic analysis, and protocol breakdowns with security context. Each entry answers: what does this traffic tell a defender
 
 ### /Incident-Response
 Full incident response reports, alert triage simulations, and threat scenario breakdowns. Structured using real IR methodology: detection, investigation, scope, containment, eradication, lessons learned.
