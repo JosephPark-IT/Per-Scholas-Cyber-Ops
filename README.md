@@ -4,7 +4,7 @@
 
 This repository documents my transition into Cybersecurity through the Per Scholas 15-week intensive. While the program covers networking fundamentals, this space is dedicated to documenting high-value technical labs, threat investigations, and SOC operations starting in May 2026.
 
-[**Jump to Program Timeline ↓**](#-program-timeline)
+[**Jump to Program Timeline ↓**](#program-timeline)
 
 ###  Current Phase
 **Phase 1: Network Operations & Security Foundations**
